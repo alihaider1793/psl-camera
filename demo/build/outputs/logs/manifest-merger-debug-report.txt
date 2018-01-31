@@ -1,0 +1,336 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:2:1-60:12
+MERGED from [:cameraview] C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\cameraview\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\02633a66481fb1c33fba8d07613ae034\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-share-4.30.0.aar\732ccb41be7f4cedd72e0eec9ec9b90c\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\243378f8850fb6dc670cdfdf42af8179\AndroidManifest.xml:21:1-36:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\c1aaf8e7d72cbb222010f4d2a735621b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1039c73e07f50fd2abe11e45ba985059\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\af105f35bb60ebaf20719b38f14995ee\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.6.2.aar\e0812ab094acedd11b7745b55157b592\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.2.aar\c3592d1ad8c6b783276ee5e762788584\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-gass:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.6.2.aar\d8c574ef0e0da9f0b8cbe54506218d4a\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\d9cfd102fc3066084f421a5a7ca3f630\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\989660d4a7cc876da0b5ee8ae5e96f72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\exifinterface-26.1.0.aar\f5ad9a45617593ccd0de81dff4f9ec58\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\305d60614880d1441abebad390cb9bc8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.android:facebook-core:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\56d51963a72ff6339aa829d3cf1079fa\AndroidManifest.xml:21:1-45:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\be27567dcd66d18a2c60972f1c9f6e43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\51c16c1d5ef82fd72fd19acb1d137a43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\62dfcd7b862bd1cc8b364a482a2eb6e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\23c7ce733e4dafcfeadc6c145b553c6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\157d00de722eb2417049d12df1eb283d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\639eedd88d9da13fbf446b313b0fc503\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\bff737c33e3b86db1e3557eb71bc041b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\661e7fc42d907ba89c6ad9c6506abf3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\d0e249a31c6cb3f728a552526df33529\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.6.2.aar\aa67483a07905dfbcee436f499ea5318\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\da1893ec1dbe920cd926b5a1d13073d5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.6.2.aar\b62c38439f9187ea17e58049e8eb9ffb\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\ab854ab58cf7e4e838d1e35480054333\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gass-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.6.2.aar\f5b09c0b3ab0aa348176217f41ce7b77\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:2:1-60:12
+		INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:2:1-60:12
+		INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:7:5-65
+MERGED from [:cameraview] C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\cameraview\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-65
+MERGED from [:cameraview] C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\cameraview\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:8:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.2.aar\c3592d1ad8c6b783276ee5e762788584\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.2.aar\c3592d1ad8c6b783276ee5e762788584\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:9:5-58:19
+MERGED from [:cameraview] C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\cameraview\build\intermediates\manifests\full\debug\AndroidManifest.xml:32:5-20
+MERGED from [:cameraview] C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\cameraview\build\intermediates\manifests\full\debug\AndroidManifest.xml:32:5-20
+MERGED from [com.android.support:design:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\02633a66481fb1c33fba8d07613ae034\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\02633a66481fb1c33fba8d07613ae034\AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-share-4.30.0.aar\732ccb41be7f4cedd72e0eec9ec9b90c\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-share-4.30.0.aar\732ccb41be7f4cedd72e0eec9ec9b90c\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\243378f8850fb6dc670cdfdf42af8179\AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\243378f8850fb6dc670cdfdf42af8179\AndroidManifest.xml:28:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1039c73e07f50fd2abe11e45ba985059\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1039c73e07f50fd2abe11e45ba985059\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\af105f35bb60ebaf20719b38f14995ee\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\af105f35bb60ebaf20719b38f14995ee\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.2.aar\c3592d1ad8c6b783276ee5e762788584\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.2.aar\c3592d1ad8c6b783276ee5e762788584\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-gass:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.6.2.aar\d8c574ef0e0da9f0b8cbe54506218d4a\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.6.2.aar\d8c574ef0e0da9f0b8cbe54506218d4a\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\d9cfd102fc3066084f421a5a7ca3f630\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\d9cfd102fc3066084f421a5a7ca3f630\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:exifinterface:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\exifinterface-26.1.0.aar\f5ad9a45617593ccd0de81dff4f9ec58\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:exifinterface:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\exifinterface-26.1.0.aar\f5ad9a45617593ccd0de81dff4f9ec58\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\305d60614880d1441abebad390cb9bc8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\305d60614880d1441abebad390cb9bc8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.android:facebook-core:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\56d51963a72ff6339aa829d3cf1079fa\AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\56d51963a72ff6339aa829d3cf1079fa\AndroidManifest.xml:28:5-43:19
+MERGED from [com.google.android.gms:play-services-ads-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.6.2.aar\aa67483a07905dfbcee436f499ea5318\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.6.2.aar\aa67483a07905dfbcee436f499ea5318\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.6.2.aar\b62c38439f9187ea17e58049e8eb9ffb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.6.2.aar\b62c38439f9187ea17e58049e8eb9ffb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\ab854ab58cf7e4e838d1e35480054333\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\ab854ab58cf7e4e838d1e35480054333\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.6.2.aar\f5b09c0b3ab0aa348176217f41ce7b77\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.6.2.aar\f5b09c0b3ab0aa348176217f41ce7b77\AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:13:9-47
+	android:icon
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:11:9-42
+	android:allowBackup
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:10:9-36
+	android:theme
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:15:9-40
+activity#com.otaliastudios.cameraview.demo.CameraActivity
+ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:21:9-32:20
+	android:screenOrientation
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:23:13-49
+	android:hardwareAccelerated
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:25:13-47
+	android:configChanges
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:24:13-76
+	android:theme
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:26:13-54
+	android:name
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:22:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:30:27-74
+activity#com.otaliastudios.cameraview.demo.PicturePreviewActivity
+ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:33:9-60
+	android:name
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:33:19-57
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:35:9-37:45
+	android:value
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:37:13-43
+	android:name
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:36:13-58
+activity#com.otaliastudios.cameraview.demo.Filters
+ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:39:9-41:15
+	android:screenOrientation
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:39:19-42
+provider#com.facebook.FacebookContentProvider
+ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:43:9-46:38
+	android:authorities
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:45:13-90
+	android:exported
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:44:13-64
+activity#com.otaliastudios.cameraview.demo.splash
+ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:48:9-44
+	android:name
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:48:19-41
+activity#com.otaliastudios.cameraview.demo.privacyPolicy
+ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:49:9-53:54
+	android:label
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:52:13-66
+	android:configChanges
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:51:13-74
+	android:theme
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:53:13-51
+	android:name
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:50:13-42
+activity#com.otaliastudios.cameraview.demo.termsAndConditions
+ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:54:9-57:58
+	android:label
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:56:13-72
+	android:theme
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml:55:13-47
+uses-sdk
+INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml
+INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml
+MERGED from [:cameraview] C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\cameraview\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:cameraview] C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\cameraview\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\02633a66481fb1c33fba8d07613ae034\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\02633a66481fb1c33fba8d07613ae034\AndroidManifest.xml:21:5-23:62
+MERGED from [com.facebook.android:facebook-share:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-share-4.30.0.aar\732ccb41be7f4cedd72e0eec9ec9b90c\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-share-4.30.0.aar\732ccb41be7f4cedd72e0eec9ec9b90c\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\243378f8850fb6dc670cdfdf42af8179\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\243378f8850fb6dc670cdfdf42af8179\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\c1aaf8e7d72cbb222010f4d2a735621b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\c1aaf8e7d72cbb222010f4d2a735621b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1039c73e07f50fd2abe11e45ba985059\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1039c73e07f50fd2abe11e45ba985059\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\af105f35bb60ebaf20719b38f14995ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\af105f35bb60ebaf20719b38f14995ee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.6.2.aar\e0812ab094acedd11b7745b55157b592\AndroidManifest.xml:17:5-94
+MERGED from [com.google.android.gms:play-services-ads:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.6.2.aar\e0812ab094acedd11b7745b55157b592\AndroidManifest.xml:17:5-94
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.2.aar\c3592d1ad8c6b783276ee5e762788584\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.2.aar\c3592d1ad8c6b783276ee5e762788584\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.6.2.aar\d8c574ef0e0da9f0b8cbe54506218d4a\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.6.2.aar\d8c574ef0e0da9f0b8cbe54506218d4a\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\d9cfd102fc3066084f421a5a7ca3f630\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\d9cfd102fc3066084f421a5a7ca3f630\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\989660d4a7cc876da0b5ee8ae5e96f72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\989660d4a7cc876da0b5ee8ae5e96f72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\exifinterface-26.1.0.aar\f5ad9a45617593ccd0de81dff4f9ec58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\exifinterface-26.1.0.aar\f5ad9a45617593ccd0de81dff4f9ec58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\305d60614880d1441abebad390cb9bc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\305d60614880d1441abebad390cb9bc8\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-core:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\56d51963a72ff6339aa829d3cf1079fa\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\56d51963a72ff6339aa829d3cf1079fa\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\be27567dcd66d18a2c60972f1c9f6e43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\be27567dcd66d18a2c60972f1c9f6e43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\51c16c1d5ef82fd72fd19acb1d137a43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\51c16c1d5ef82fd72fd19acb1d137a43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\62dfcd7b862bd1cc8b364a482a2eb6e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\62dfcd7b862bd1cc8b364a482a2eb6e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\23c7ce733e4dafcfeadc6c145b553c6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\23c7ce733e4dafcfeadc6c145b553c6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\157d00de722eb2417049d12df1eb283d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\157d00de722eb2417049d12df1eb283d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\639eedd88d9da13fbf446b313b0fc503\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\639eedd88d9da13fbf446b313b0fc503\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\bff737c33e3b86db1e3557eb71bc041b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\bff737c33e3b86db1e3557eb71bc041b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\661e7fc42d907ba89c6ad9c6506abf3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\661e7fc42d907ba89c6ad9c6506abf3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\d0e249a31c6cb3f728a552526df33529\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\d0e249a31c6cb3f728a552526df33529\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.6.2.aar\aa67483a07905dfbcee436f499ea5318\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.6.2.aar\aa67483a07905dfbcee436f499ea5318\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\da1893ec1dbe920cd926b5a1d13073d5\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\da1893ec1dbe920cd926b5a1d13073d5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.6.2.aar\b62c38439f9187ea17e58049e8eb9ffb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.6.2.aar\b62c38439f9187ea17e58049e8eb9ffb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\ab854ab58cf7e4e838d1e35480054333\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\ab854ab58cf7e4e838d1e35480054333\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.6.2.aar\f5b09c0b3ab0aa348176217f41ce7b77\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.6.2.aar\f5b09c0b3ab0aa348176217f41ce7b77\AndroidManifest.xml:4:5-43
+INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml
+INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\02633a66481fb1c33fba8d07613ae034\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\demo\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from [:cameraview] C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\cameraview\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [:cameraview] C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\cameraview\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [:cameraview] C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\cameraview\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:cameraview] C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\cameraview\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [:cameraview] C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\cameraview\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [:cameraview] C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\cameraview\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:9-57
+uses-feature#android.hardware.camera.front
+ADDED from [:cameraview] C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\cameraview\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [:cameraview] C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\cameraview\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [:cameraview] C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\cameraview\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:9-53
+uses-feature#android.hardware.microphone
+ADDED from [:cameraview] C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\cameraview\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [:cameraview] C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\cameraview\build\intermediates\manifests\full\debug\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [:cameraview] C:\Users\haide\AndroidStudioProjects\PSL-PROFILE PICTURE\cameraview\build\intermediates\manifests\full\debug\AndroidManifest.xml:29:9-51
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\02633a66481fb1c33fba8d07613ae034\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\af105f35bb60ebaf20719b38f14995ee\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\af105f35bb60ebaf20719b38f14995ee\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:exifinterface:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\exifinterface-26.1.0.aar\f5ad9a45617593ccd0de81dff4f9ec58\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:exifinterface:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\exifinterface-26.1.0.aar\f5ad9a45617593ccd0de81dff4f9ec58\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\305d60614880d1441abebad390cb9bc8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\305d60614880d1441abebad390cb9bc8\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\02633a66481fb1c33fba8d07613ae034\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\02633a66481fb1c33fba8d07613ae034\AndroidManifest.xml:27:13-51
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\243378f8850fb6dc670cdfdf42af8179\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\243378f8850fb6dc670cdfdf42af8179\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\243378f8850fb6dc670cdfdf42af8179\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\243378f8850fb6dc670cdfdf42af8179\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\243378f8850fb6dc670cdfdf42af8179\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\243378f8850fb6dc670cdfdf42af8179\AndroidManifest.xml:33:19-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.2.aar\c3592d1ad8c6b783276ee5e762788584\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.2.aar\c3592d1ad8c6b783276ee5e762788584\AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.2.aar\c3592d1ad8c6b783276ee5e762788584\AndroidManifest.xml:25:9-257
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.2.aar\c3592d1ad8c6b783276ee5e762788584\AndroidManifest.xml:25:231-255
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.2.aar\c3592d1ad8c6b783276ee5e762788584\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.2.aar\c3592d1ad8c6b783276ee5e762788584\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.2.aar\c3592d1ad8c6b783276ee5e762788584\AndroidManifest.xml:25:19-71
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\d9cfd102fc3066084f421a5a7ca3f630\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\d9cfd102fc3066084f421a5a7ca3f630\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\d9cfd102fc3066084f421a5a7ca3f630\AndroidManifest.xml:20:20-65
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\56d51963a72ff6339aa829d3cf1079fa\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\56d51963a72ff6339aa829d3cf1079fa\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\56d51963a72ff6339aa829d3cf1079fa\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.30.0] C:\Users\haide\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\56d51963a72ff6339aa829d3cf1079fa\AndroidManifest.xml:40:13-70

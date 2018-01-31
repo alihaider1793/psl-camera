@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PSL Camera</string>
+    <string name="zero">zero</string>
+    <string name="one">one</string>
+    <string name="two">two</string>
+    <string name="three">three</string>
+    <string name="four">four</string>
+    <string name="five">five</string>
+    <string name="six">six</string>
+
+    <string name="title_activity_privacy_policy">privacyPolicy</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="pslCam">PSL CAMERA</string>
+    <string name="title_activity_terms_and_conditions">termsAndConditions</string>
+    <string name="app_id">785287375015034</string>
+    <string name="fb_login_protocol_scheme">fb785287375015034</string>
+
+</resources>

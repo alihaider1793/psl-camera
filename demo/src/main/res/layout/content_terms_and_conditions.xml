@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.otaliastudios.cameraview.demo.privacyPolicy"
+    android:background="#ffffff">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:text="TERMS AND CONDITIONS"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="50"
+                android:text="These Terms and Conditions apply to your access and usage of PSL Camera application provided by Zillion.\n\nBy downloading PSL Camera mobile application, you agree to these Terms. If you do not agree to these Terms, do not access or use our Services.\n\n"
+                />
+            <TextView
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="50"
+                android:text="1. Description of Services\n\nPSL Camera is an Android application that allows user to put their favorite team filters from Pakistan Super League. The application allows you to (a) take photos using the application or (b) uploading preexisting photos from gallery onto the application. You can then apply different stylized filters to the photos. Once you choose a filter, photo transforms. You can then share the photos to social media channels i.e. Facebook and WhatsApp or save them to your device for personal use.\n\n"
+                />
+
+            <TextView
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="50"
+                android:text="2. Eligibility\n\nYou must be at least 12 years or above of age to access our services.\n\n"
+                />
+            <TextView
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="50"
+                android:text="3. User Content\n\nOur services may allow users to create, save and share content including photos only. Zillion does not claim ownership of any User Content that you post or share.\n\n"
+                />
+            <TextView
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="70"
+                android:text="4. Prohibited Conduct and Content\n\nYou will not\n\nViolate any applicable law, contract, intellectual property or other third party right and you are solely responsible for your conduct while accessing or using our services.\n\nUse our services in any manner that could interfere with, disrupt negatively affect or inhibit other users from fully enjoying our services or that could damage or impair the functioning of our services in any manner.\n\nUse our services for any illegal or unauthorized purpose, or engage or promote any activity that violates these terms\n\n"
+                />
+            <TextView
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="50"
+                android:text="You may only post or share User Content that is non–confidential and you have every necessary right to disclose it.\n\n"
+                />
+            <TextView
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="50"
+                android:text="You may not create, post, store or share any content that is unlawful, pornographic, harassing, abusive or fraudulent.\n\n"
+                />
+            <TextView
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="50"
+                android:text="These terms constitute the entire agreement between user and Zillion relating to access and use of our services."
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

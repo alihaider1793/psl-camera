@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/root"
+    android:background="#000000"
+    android:theme="@style/Theme.AppCompat.NoActionBar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:gravity="right"
+        android:padding="20dp"
+        android:id="@+id/top"
+        >
+
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:id="@+id/vertical_menu_iv"
+            android:transitionName="menu_icon"
+            android:src="@mipmap/ic_more_vert_white_24dp" />
+
+    </LinearLayout>
+
+    <!-- Camera -->
+    <com.otaliastudios.cameraview.CameraView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/camera"
+        android:transitionName="camera_transition"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_below="@+id/top"
+        android:layout_above="@+id/bottom"
+        android:keepScreenOn="true"
+        app:cameraPlaySounds="true"
+        app:cameraGrid="off"
+        app:cameraCropOutput="false"
+        app:cameraFacing="back"
+        app:cameraFlash="off"
+        app:cameraAudio="on"
+        app:cameraGestureTap="focusWithMarker"
+        app:cameraGestureLongTap="none"
+        app:cameraGesturePinch="zoom"
+        app:cameraGestureScrollHorizontal="exposureCorrection"
+        app:cameraGestureScrollVertical="none"
+        app:cameraJpegQuality="100"
+        app:cameraSessionType="picture" />
+
+    <!-- Controls -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="6dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:id="@+id/bottom"
+        android:weightSum="3">
+
+        <ImageView
+            android:id="@+id/gallery"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:src="@drawable/galleryy"/>
+
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_weight="1.5" />
+
+        <ImageView
+            android:layout_gravity="center_horizontal|bottom"
+            android:id="@+id/capturePhoto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/capture"/>
+
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_weight="1.5" />
+
+
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@+id/toggleCamera"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/switch_camera" />
+
+    </LinearLayout>
+
+    <!-- Edit -->
+    <android.support.v4.widget.NestedScrollView
+        android:id="@+id/controls"
+        android:visibility="gone"
+        android:background="@android:color/white"
+        app:layout_behavior="@string/bottom_sheet_behavior"
+        app:behavior_hideable="true"
+        app:behavior_peekHeight="300dp"
+        app:behavior_skipCollapsed="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </android.support.v4.widget.NestedScrollView>
+
+</RelativeLayout>
