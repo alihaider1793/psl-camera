@@ -8,22 +8,21 @@
     android:background="@android:color/black">
 
     <RelativeLayout
-        android:id="@+id/icons_rel_lay"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
+        android:layout_height="match_parent"
         android:background="@android:color/black"
-        android:paddingLeft="20dp"
-        android:paddingTop="20dp"
-        android:transitionName="menu_icon">
+        android:id="@+id/relativelayout"
+        >
 
         <LinearLayout
             android:id="@+id/saveBtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:paddingLeft="20dp"
+            android:paddingTop="20dp"
+            android:transitionName="menu_icon">
 
             <ImageView
                 android:layout_width="24dp"
@@ -31,6 +30,7 @@
                 android:src="@drawable/ic_save_icon" />
 
             <TextView
+
                 android:id="@+id/savingText"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -39,6 +39,8 @@
         </LinearLayout>
 
         <LinearLayout
+            android:paddingLeft="20dp"
+            android:paddingTop="20dp"
             android:id="@+id/shareBtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -59,37 +61,6 @@
                 android:textColor="@android:color/white" />
 
         </LinearLayout>
-
-        <!--<TextView-->
-        <!--android:layout_width="wrap_content"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:text="Share"-->
-        <!--android:textColor="@android:color/white"-->
-        <!--android:layout_toRightOf="@+id/saveBtn"-->
-        <!--android:layout_marginLeft="10dp"-->
-        <!--android:id="@+id/s"-->
-        <!--android:drawableTop="@drawable/ic_share_white"-->
-        <!--/>-->
-
-        <!--<TextView-->
-        <!--android:layout_width="wrap_content"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:text="Save"-->
-        <!--android:textColor="@android:color/white"-->
-        <!--android:layout_toRightOf="@+id/s"-->
-        <!--android:layout_marginLeft="10dp"-->
-        <!--android:drawableTop="@drawable/ic_save_icon"-->
-        <!--/>-->
-
-    </RelativeLayout>
-
-    <RelativeLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@android:color/black"
-        android:layout_below="@id/icons_rel_lay"
-        android:id="@+id/relativelayout"
-        >
 
         <ImageView
             android:layout_width="wrap_content"
