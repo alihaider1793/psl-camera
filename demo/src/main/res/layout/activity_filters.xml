@@ -14,6 +14,26 @@
         android:id="@+id/relativelayout"
         >
 
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:transitionName="camera_transition"
+            android:id="@+id/imgg" />
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_centerInParent="true"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"/>
+
+       <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/filter1"
+            android:src="@drawable/filter_multan"
+           android:visibility="gone"/>
+
         <LinearLayout
             android:id="@+id/saveBtn"
             android:layout_width="wrap_content"
@@ -61,27 +81,6 @@
                 android:textColor="@android:color/white" />
 
         </LinearLayout>
-
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:transitionName="camera_transition"
-            android:id="@+id/imgg" />
-
-
-        <android.support.v4.view.ViewPager
-            android:id="@+id/viewpager"
-            android:layout_centerInParent="true"
-            android:layout_height="wrap_content"
-            android:layout_width="wrap_content"/>
-
-
-       <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/filter1"
-            android:src="@drawable/filter_multan"
-           android:visibility="gone"/>
     </RelativeLayout>
 
 </RelativeLayout>
