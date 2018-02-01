@@ -66,6 +66,7 @@ public class Into_Slider extends AppCompatActivity {
 
                 }else {
                     viewPager.setCurrentItem(current_page - 1);
+
                 }
             }
         });
