@@ -5,7 +5,8 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.CAMERA" />
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="false"
         android:icon="@drawable/psl_icon"
@@ -13,37 +14,27 @@
         android:roundIcon="@drawable/psl_icon"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
-
-
-
-
         <activity
             android:name=".CameraActivity"
-            android:screenOrientation="portrait"
             android:configChanges="orientation|screenLayout|keyboardHidden"
             android:hardwareAccelerated="true"
+            android:screenOrientation="portrait"
             android:theme="@style/Theme.MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity android:name=".PicturePreviewActivity" />
 
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
-            android:value="@string/app_id"/>
+            android:value="@string/app_id" />
 
-        <activity android:name=".Filters"
-            android:screenOrientation="portrait"
-            />
+        <activity
+            android:name=".Filters"
+            android:screenOrientation="portrait" />
 
         <provider
             android:name="com.facebook.FacebookContentProvider"
             android:authorities="com.facebook.app.FacebookContentProvider785287375015034"
-            android:exported="true"/>
+            android:exported="true" />
 
         <activity android:name=".splash" />
         <activity
@@ -54,7 +45,14 @@
         <activity
             android:name=".termsAndConditions"
             android:label="@string/title_activity_terms_and_conditions"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Into_Slider">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
